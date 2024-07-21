@@ -17,6 +17,10 @@ C language prettier that conforms to 42 norm v3.
 I know you are already a good human norm.
 It's just for convenience.
 
+## > [!IMPORTANT]
+
+This version as been updated to be use with linux-asahi a linux version for m1 & m2 (for the moment).
+
 ## Installation
 
 Requires Python3.8+ (3.9, 3.10, 3.11)
